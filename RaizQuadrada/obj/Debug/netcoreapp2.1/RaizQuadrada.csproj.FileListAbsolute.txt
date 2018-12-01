@@ -1,0 +1,11 @@
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp2.1\RaizQuadrada.deps.json
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp2.1\RaizQuadrada.runtimeconfig.json
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp2.1\RaizQuadrada.runtimeconfig.dev.json
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp2.1\RaizQuadrada.dll
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\bin\Debug\netcoreapp2.1\RaizQuadrada.pdb
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp2.1\RaizQuadrada.csprojAssemblyReference.cache
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp2.1\RaizQuadrada.csproj.CoreCompileInputs.cache
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp2.1\RaizQuadrada.AssemblyInfoInputs.cache
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp2.1\RaizQuadrada.AssemblyInfo.cs
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp2.1\RaizQuadrada.dll
+C:\Users\euzeb\Google Drive\Src\RaizQuadrada\RaizQuadrada\obj\Debug\netcoreapp2.1\RaizQuadrada.pdb
